@@ -1,1 +1,2 @@
 # EVREM-net
+If the paper is accepted, the code will be made publicly available. Thank you for your attention.
